@@ -1,0 +1,1318 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Konami Games",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Roboto Condensed",
+        "textFont": "Roboto Condensed",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 33,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "32px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mgs-key-art-final1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "METAL GEAR: SURVIVE",
+                "showText": true,
+                "text": "The newest release of Metal Gear is now on the market! You can find it on PS4, Xbox One and PC. Check out more on the link below:",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=319YfyvZtKU",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "METAL GEAR: SURVIVE",
+                "showText": true,
+                "text": "The newest release of Metal Gear is now on the market! You can find it on PS4, Xbox One and PC. Check out more on the link below: &nbsp; &nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-4",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Mantalaki 3Dt"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+        }
+      ]
+    },
+    "allgames.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "font-size": "13px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Playstation 4",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Xbox One",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "PC",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Playstation 3",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Xbox 360",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nintendo Switch",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "iOS",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Android",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Xbox One",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": true,
+            "bgColor": "#bccfd8",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-b",
+          "articleLayout": false,
+          "allItem": "All Games"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Mantalaki 3Dt"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "@primaryColor!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-s",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-u",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-m",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    }
+  }
+}
