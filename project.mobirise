@@ -388,7 +388,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/productimage-suikodenii-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/productimage-suikodenii-2000x2000.png",
                 "caption": "Suikoden II",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Xbox One",
@@ -418,7 +418,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/50-cvloscoll-gamemain-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/50-cvloscoll-gamemain-2000x1125.jpg",
                 "caption": "Castlevania: Lords of Shadow Collection",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
