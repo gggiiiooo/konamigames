@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Konami Games",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -227,7 +227,7 @@
     },
     "allgames.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Konami Games",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -548,7 +548,7 @@
     },
     "example_article.html": {
       "settings": {
-        "title": "Web Builder Title",
+        "title": "Konami Games",
         "meta_descr": "Web Builder Description"
       },
       "components": [
