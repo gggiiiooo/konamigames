@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "examples_news_article.html",
+    "currentPage": "index.html",
     "name": "Konami Games",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 70,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -71,11 +71,11 @@
                 "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\"><br></a></span><span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\">GAMES</a></span><br><span style=\"line-height: 1.1;\"><a href=\"example_article.html\" class=\"text-white\">METAL GEAR: SURVIVE</a></span><br>",
+                "title": "<span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\"><br></a></span><span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\">GAMES</a></span><br><span style=\"line-height: 1.1;\"><a href=\"examples_games_article.html\" class=\"text-white\">METAL GEAR: SURVIVE</a></span><br>",
                 "showText": true,
-                "text": "<a href=\"example_article.html\" class=\"text-white\">The newest release of Metal Gear is now on the market! You can find it on PS4, Xbox One and PC. Check out more on the link below:</a>",
+                "text": "<a href=\"examples_games_article.html\" class=\"text-white\">The newest release of Metal Gear is now on the market! You can find it on PS4, Xbox One and PC. Check out more on the link below:</a>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"example_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"examples_games_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
               },
               {
                 "active": false,
@@ -224,7 +224,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         }
       ]
     },
@@ -545,7 +545,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -674,7 +674,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_styles": {
@@ -706,7 +706,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -992,7 +992,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
@@ -1018,58 +1018,74 @@
             "columns": "4",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aaaa-600x336.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "PES 2017",
           "subtitle1": "<i>Bootstrap 4 has been noted</i>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "PES 2017 Mobile Makes its Worldwide Debut",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pes2018-wall-n-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "examples_news_article.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
+          "title2": "<a href=\"examples_news_article.html\" class=\"text-primary\">PES 2018</a><br>",
           "subtitle2": "<i>One of Bootstrap 4's big points</i>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "<a href=\"examples_news_article.html\" class=\"text-white\">“Where Legends Are Made” Featuring its biggest advances in over a decade, KONAMI looks to cement PES 2018's reputation as the definitive football title</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"examples_news_article.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a-600x243.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Yu-Gi-Oh! TCG",
           "subtitle3": "<i>Google has a highly exhaustive list of fonts</i>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "2017 Yu-Gi-Oh! TRADING CARD GAME World Championship to be hosted in London, UK",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aa-600x376.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Star Wars: FORCE COLLECTION",
           "subtitle4": "<i>Mobirise gives you the freedom to develop</i>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Star Wars: FORCE COLLECTION Celebrates Star Wars Day with Re-Release of Contra Mini-Game",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1253,7 +1269,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Konami Digital&nbsp;<br>Entertainment B.V.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"allgames.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GAMES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">ALL GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox One</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">PC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Playstation 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Xbox 360</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Nintendo Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">iOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Android</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"allgames.html\">Yu-GiOh! TCG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"allnews.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">COMMUNITY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"etl-icon icon-flag mbr-iconfont mbr-iconfont-btn\">&nbsp; EN</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\">Konami Sites</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://www.facebook.com/konami.europe\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://twitter.com/konamieu\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://www.youtube.com/user/konamivideos\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_styles": {
@@ -1267,11 +1283,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/iniesta-pes2018-2000x1123.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1279,13 +1295,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
+          "title": "PES 2018",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -1295,7 +1311,8 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#990014"
+              "color": "#990014",
+              "font-size": "32px"
             },
             "SMALL": {
               "color": "#efefef"
@@ -1312,7 +1329,7 @@
             "bgColor": "#888888",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
+          "title": "“Where Legends Are Made” Featuring its biggest advances in over a decade, KONAMI looks to cement PES 2018's reputation as the definitive football title",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1326,7 +1343,20 @@
             "paddingBottom": 1,
             "bgColor": "#cddfe7"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>Konami Digital Entertainment B.V. will release PES 2018, the latest edition of its highly regarded football series, on September 14th, 2017. The publisher has also pledged that the new game aims high and will unveil a wide-range of improvements to award-winning series.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cddfe7"
+          },
+          "text": "<p>Having established the PES series as the most realistic and intuitive football title for home systems, KONAMI has set its stall early with an extensive range of new elements that build upon the previously laid foundations. Centred on the concept that PES 2018 is “Where Legends are Made”, the new game hits the floor running with new features, new ways to play, a PC version to the standard of the leading console iterations, and an unrivalled gameplay experience.</p>"
         },
         {
           "_tags": [
@@ -1339,7 +1369,7 @@
             "paddingBottom": 1,
             "bgColor": "#cddfe7"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+          "text": "<blockquote>PES 2018 features more new additions than any other PES title in the last 10 years, and no part of the game has been left untouched. At its heart remains the famed gameplay where users enjoy complete control over the on-field action, using players that behave, move and react just like their real-life counterparts. New additions to the control systems add more fluidity to the game, while a new user interface makes accessing the many facets of PES 2018 a simpler process.</blockquote>"
         },
         {
           "_tags": [
@@ -1352,8 +1382,50 @@
             "paddingBottom": 1,
             "bgColor": "#cddfe7"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>Control is everything in a football game, and PES 2018 retains the immediacy and total control the series is famed for alongside new refinements that hone its authenticity. Matches are played at a more realistic pace, while a new strategic dribbling system offers greater close control, including contextual shielding to protect the ball. Similarly, simple movements of the control stick can be used to initiate shimmies designed to wrong-foot defenders. KONAMI has also implemented a REAL Touch + process, wherein players will react to receiving a ball using permissible parts of the body, such as chest, head and legs to bring a pass under control dependent on the height and pace of the incoming ball. All set piece routines have also been totally reworked, notably the way penalty kicks are taken and a one-player kick off routine as well.</p>",
+          "text2": "<p>PES 2018’s visual acuity has also improved. A new REAL Capture system provides true-to-life lighting across day and night games, while over 20,000 components have been faithfully recreated to recreate the turf, tunnels, and the surrounding areas of stadia such as Camp Nou and Signal Iduna Park. The individuality of how players move, shape to shoot and make passes is also closer to real life, with KONAMI motion-capturing players within realistic environments in a complete overhaul of the in-game animation system. Core movements such as walking, turning, and posture have been reworked also, while the player models now have greater variety, with attention paid to the way kits fit differing physiques. KONAMI’s agreements with partner teams will also see tattoos recreated on players as well.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cddfe7"
+          },
+          "text1": "<p>With the renowned gameplay and visuals upped in every respect, PES 2018 also allows more ways for people to enjoy the match day experience. Full 11-Vs-11 online options and the eternally popular myClub challenge where players build a team from scratch, are joined by co-operative 2-Vs-2 and 3-Vs-3 modes with support for local guests. The much-requested ‘Random Selection’ match returns with all new content, while the Master League implements pre-season tournaments, a new transfer system and pre-match interviews and an insight to the changing rooms.</p>",
+          "text2": "<p>The continuing success of the PES series as an eSport staple has also been reflected with the PES LEAGUE fully integrated into the main game. With 16 of the world’s greatest PES players set to gather ahead of June’s UEFA Champions League final to compete for a $200,000 prize, PES 2018 will allow for easy entry to next year’s competition, and add related PES LEAGUE modes surrounding myClub, Online Co-Operative matches and the Random Selection matches.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#cddfe7",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pes2018-product-logo-b-1400x340.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "The PES Pro Evolution Soccer series logo for 2018<br>"
         },
         {
           "_tags": [
@@ -1362,26 +1434,18 @@
           "_name": "content7",
           "_anchor": "content7-1n",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgColor": "#cddfe7"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cddfe7"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+          "text1": "<p><i>“PES 2018 is a title that finds the series at the very top of its game,” commented Masami Saso, President of Konami Digital Entertainment B.V. “It is a game that builds on the foundations of the resurgent series and has taken on board requests from our growing fan base. It is also a game with an eye on the future. As eSports continue to develop as a worldwide force, PES 2018’s inclusion of a dedicated PES LEAGUE mode removes any barrier to entry to die-hard fans and newcomers alike. KONAMI is committed to breaking new ground with the PES series, and PES 2018 sees us enter the field more confident and determined to excel than ever.”</i>&nbsp;</p>",
+          "text2": "<p>PES 2018 will be released for PlayStation®4, Xbox One™, PlayStation®3 and Xbox360™. The game will also be available via Steam in a version that has undergone substantial improvements in terms of aesthetics and content, ensuring the game enjoys parity with the current gen formats. Pre-order the digital FC Barcelona Special Edition on PlayStation®4, Xbox One™ or Steam now and receive additional content at launch – including 1,000 myClub coins and 5 myClub player agents – guaranteeing a top UEFA Champions League player, as well as a top club and LEGEND player from FC Barcelona, will be added to your winning eleven!</p>",
+          "text3": "<p>For more information, please visit: <a href=\"http://www.konami.com/wepes/2018/\" target=\"_blank\">https://www.konami.com/wepes/2018/</a></p><p><br></p><p>To view the new teaser trailer, please visit: <a href=\"http://www.youtube.com/watch?v=eVrW0Azrcn4\" target=\"_blank\">https://www.youtube.com/watch?v=eVrW0Azrcn4</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follow us here:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/officialpes\" target=\"_blank\">twitter.com/officialpes</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/pesleague\" target=\"_blank\">twitter.com/pesleague</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://facebook.com/PES\" target=\"_blank\">facebook.com/PES</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.youtube.com/officialpes\" target=\"_blank\">www.youtube.com/officialpes</a></span><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "social-buttons1",

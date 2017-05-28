@@ -817,9 +817,13 @@ h6,
 }
 #header3-1g H3 {
   color: #990014;
+  font-size: 32px;
 }
 #header3-1g SMALL {
   color: #efefef;
+}
+#content7-1n P {
+  text-align: left;
 }
 #social-buttons3-1q .mbr-section-title,
 #social-buttons3-1q .btn-social {
