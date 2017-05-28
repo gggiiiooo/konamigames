@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "allnews.html",
     "name": "Konami Games",
     "theme": {
       "name": "mobirise3",
@@ -999,6 +999,17 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#990014"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features3-1b",
           "_params": {
             "paddingTop": "4",
@@ -1018,7 +1029,7 @@
             "columns": "4",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true
           },
@@ -1035,7 +1046,7 @@
             }
           },
           "title1": "PES 2017",
-          "subtitle1": "<i>Bootstrap 4 has been noted</i>",
+          "subtitle1": "<i>24.05.2017 10:00</i>",
           "caption1": "PES 2017 Mobile Makes its Worldwide Debut",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -1051,7 +1062,7 @@
             }
           },
           "title2": "<a href=\"examples_news_article.html\" class=\"text-primary\">PES 2018</a><br>",
-          "subtitle2": "<i>One of Bootstrap 4's big points</i>",
+          "subtitle2": "<i>17.05.2017 13:30</i>",
           "caption2": "<a href=\"examples_news_article.html\" class=\"text-white\">“Where Legends Are Made” Featuring its biggest advances in over a decade, KONAMI looks to cement PES 2018's reputation as the definitive football title</a>",
           "button2": "<a data-app-btn=\"true\" href=\"examples_news_article.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -1067,7 +1078,7 @@
             }
           },
           "title3": "Yu-Gi-Oh! TCG",
-          "subtitle3": "<i>Google has a highly exhaustive list of fonts</i>",
+          "subtitle3": "<i>15.05.2017 10:00</i>",
           "caption3": "2017 Yu-Gi-Oh! TRADING CARD GAME World Championship to be hosted in London, UK",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -1083,7 +1094,7 @@
             }
           },
           "title4": "Star Wars: FORCE COLLECTION",
-          "subtitle4": "<i>Mobirise gives you the freedom to develop</i>",
+          "subtitle4": "<i>28.04.2017 10:00</i>",
           "caption4": "Star Wars: FORCE COLLECTION Celebrates Star Wars Day with Re-Release of Contra Mini-Game",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "media5": {
@@ -1109,18 +1120,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#990014"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1432,6 +1432,11 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content7-1n",
           "_params": {
             "paddingTop": "1",
@@ -1440,12 +1445,7 @@
           },
           "text1": "<p><i>“PES 2018 is a title that finds the series at the very top of its game,” commented Masami Saso, President of Konami Digital Entertainment B.V. “It is a game that builds on the foundations of the resurgent series and has taken on board requests from our growing fan base. It is also a game with an eye on the future. As eSports continue to develop as a worldwide force, PES 2018’s inclusion of a dedicated PES LEAGUE mode removes any barrier to entry to die-hard fans and newcomers alike. KONAMI is committed to breaking new ground with the PES series, and PES 2018 sees us enter the field more confident and determined to excel than ever.”</i>&nbsp;</p>",
           "text2": "<p>PES 2018 will be released for PlayStation®4, Xbox One™, PlayStation®3 and Xbox360™. The game will also be available via Steam in a version that has undergone substantial improvements in terms of aesthetics and content, ensuring the game enjoys parity with the current gen formats. Pre-order the digital FC Barcelona Special Edition on PlayStation®4, Xbox One™ or Steam now and receive additional content at launch – including 1,000 myClub coins and 5 myClub player agents – guaranteeing a top UEFA Champions League player, as well as a top club and LEGEND player from FC Barcelona, will be added to your winning eleven!</p>",
-          "text3": "<p>For more information, please visit: <a href=\"http://www.konami.com/wepes/2018/\" target=\"_blank\">https://www.konami.com/wepes/2018/</a></p><p><br></p><p>To view the new teaser trailer, please visit: <a href=\"http://www.youtube.com/watch?v=eVrW0Azrcn4\" target=\"_blank\">https://www.youtube.com/watch?v=eVrW0Azrcn4</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follow us here:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/officialpes\" target=\"_blank\">twitter.com/officialpes</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/pesleague\" target=\"_blank\">twitter.com/pesleague</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://facebook.com/PES\" target=\"_blank\">facebook.com/PES</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.youtube.com/officialpes\" target=\"_blank\">www.youtube.com/officialpes</a></span><br></p>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text3": "<p>For more information, please visit: <a href=\"http://www.konami.com/wepes/2018/\" target=\"_blank\">https://www.konami.com/wepes/2018/</a></p><p><br></p><p>To view the new teaser trailer, please visit: <a href=\"http://www.youtube.com/watch?v=eVrW0Azrcn4\" target=\"_blank\">https://www.youtube.com/watch?v=eVrW0Azrcn4</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follow us here:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/officialpes\" target=\"_blank\">twitter.com/officialpes</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://twitter.com/pesleague\" target=\"_blank\">twitter.com/pesleague</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://facebook.com/PES\" target=\"_blank\">facebook.com/PES</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.youtube.com/officialpes\" target=\"_blank\">www.youtube.com/officialpes</a></span><br></p>"
         },
         {
           "_inherit": "social-buttons1",
