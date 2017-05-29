@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "allnews.html",
+    "currentPage": "index.html",
     "name": "Konami Games",
     "theme": {
       "name": "mobirise3",
@@ -78,8 +78,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"examples_games_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pes2018-wall-n-2000x1125.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ogp-top-eu-2-2000x1256.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=319YfyvZtKU",
                 "overlay": true,
@@ -93,8 +93,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"examples_news_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/90-yugiohzexal-gamemain-2000x1128.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/zdc1-videogameeueasfdsasdcxasdqa-2000x1610.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -203,14 +203,14 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-34regsdwsa-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotypo-konami-games-aaa-341x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -524,7 +524,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
