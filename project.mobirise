@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "examples_news_article.html",
     "name": "Konami Games",
     "theme": {
       "name": "mobirise3",
@@ -203,7 +203,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
@@ -524,14 +524,14 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-34regsdwsa-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotypo-konami-games-aaa-341x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -660,7 +660,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-34regsdwsa-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotypo-konami-games-aaa-341x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -978,7 +978,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-34regsdwsa-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotypo-konami-games-aaa-341x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1255,7 +1255,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-34regsdwsa-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotypo-konami-games-aaa-341x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
