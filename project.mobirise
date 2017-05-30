@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "examples_news_article.html",
+    "currentPage": "index.html",
     "name": "Konami Games",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,8 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 70,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -68,7 +69,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\"><br></a></span><span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\">GAMES</a></span><br><span style=\"line-height: 1.1;\"><a href=\"examples_games_article.html\" class=\"text-white\">METAL GEAR: SURVIVE</a></span><br>",
@@ -78,13 +79,13 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"examples_games_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/ogp-top-eu-2-2000x1256.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=319YfyvZtKU",
                 "overlay": true,
-                "overlayOpacity": "0.5",
-                "contentAlign": "left",
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><a href=\"allnews.html\" class=\"text-white\">NEWS</a></span><br><a href=\"examples_news_article.html\" class=\"text-white\">PES 2018</a>",
                 "showText": true,
@@ -93,13 +94,13 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"examples_news_article.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/zdc1-videogameeueasfdsasdcxasdqa-2000x1610.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.5",
-                "contentAlign": "right",
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\"><a href=\"allgames.html\" class=\"text-white\">GAMES</a></span><br><a href=\"allgames.html\" class=\"text-white\">Yu-Gi-Oh! Zexal® World Duel Carnival™</a>",
                 "showText": true,
