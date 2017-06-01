@@ -147,7 +147,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px"
+              "font-size": "8px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -204,7 +204,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -468,7 +468,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px"
+              "font-size": "8px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -525,7 +525,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -597,7 +597,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px"
+              "font-size": "8px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -654,7 +654,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -915,7 +915,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px"
+              "font-size": "8px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -972,7 +972,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1192,7 +1192,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px"
+              "font-size": "8px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1249,7 +1249,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
